@@ -7,3 +7,6 @@ gun
 ppp
 steark
 pray to devil
+python project 
+project master
+oops!
